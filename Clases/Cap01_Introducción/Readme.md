@@ -1,13 +1,9 @@
 # Objetivos específicos de la unidad:
-- Identificar y modelar las principales señales continuas y discretas de interés para los sistemas de
-comunicación digital. (Al menos 4)
-- Representar algunas señales continuas y discretas mediante las funciones o secuencias básicas
-(impulso, escalón y exponencial compleja).
-- Realizar las principales operaciones entre señales, así como las operaciones sobre la variable
-independiente.
-- Simular en el dominio del tiempo y de frecuencia algunas señales de interés para los sistemas de
-comunicación digital.
-Temas de la unidad:
+## Identificar y modelar las principales señales continuas y discretas de interés para los sistemas de comunicación digital. (Al menos 4)
+## Representar algunas señales continuas y discretas mediante las funciones o secuencias básicas (impulso, escalón y exponencial compleja).
+## Realizar las principales operaciones entre señales, así como las operaciones sobre la variable independiente.
+## Simular en el dominio del tiempo y de frecuencia algunas señales de interés para los sistemas de comunicación digital.
+## Temas de la unidad:
 1.1. Introducción general
 1.1.1. Qué son las señales y los sistemas
 1.1.2. Señales continuas y discretas
