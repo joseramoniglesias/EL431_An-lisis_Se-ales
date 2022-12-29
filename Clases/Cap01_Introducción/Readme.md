@@ -33,17 +33,17 @@
 - 1.4.2. Media, potencia y varianza de señales aleatorias
 - 1.4.3. Teorema de Wiener–Khintchine y concepto de estacionareidad en sentido amplio.
 - 1.4.4. Momentos de 1 (origen) y 2 (media) orden de variables aleatorias
-1.4.5. Densidad espectral de potencia para señales y procesos estocásticos
-1.4.6. Funciones de correlación y auto correlación de procesos estocásticos.
-1.4.7. Modelado del ruido en sistemas de comunicación digital.
-1.4.8. Aplicación de los procesos aleatorios a los sistemas de comunicación digital
-1.5. El fin del teorema de Nyquist, breve revisión al sensado comprimido.
-Prácticas de simulación y/o laboratorio para la unidad 1:
-i. Representación en tiempo y frecuencia de las señales de interés en sistemas de comunicación
+- 1.4.5. Densidad espectral de potencia para señales y procesos estocásticos
+- 1.4.6. Funciones de correlación y auto correlación de procesos estocásticos.
+- 1.4.7. Modelado del ruido en sistemas de comunicación digital.
+- 1.4.8. Aplicación de los procesos aleatorios a los sistemas de comunicación digital
+- 1.5. El fin del teorema de Nyquist, breve revisión al sensado comprimido.
+## Prácticas de simulación y/o laboratorio para la unidad 1:
+- i. Representación en tiempo y frecuencia de las señales de interés en sistemas de comunicación
 digital.
-ii. Simulación de la densidad espectral de potencia y energía para las señales de interés en
+- ii. Simulación de la densidad espectral de potencia y energía para las señales de interés en
 sistemas de comunicación digital
-iii. Generación de variables aleatorias continuas y discretas y cálculo de los momentos de 1 y 2
+- iii. Generación de variables aleatorias continuas y discretas y cálculo de los momentos de 1 y 2
 orden.
-iv. Simulación del muestreo de señales continuas limitadas en banda empleando el Analog
+- iv. Simulación del muestreo de señales continuas limitadas en banda empleando el Analog
 Discovery
