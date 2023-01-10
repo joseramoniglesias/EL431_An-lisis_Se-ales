@@ -8,5 +8,5 @@
 ## Presentación de la materia: motivación, objetivos, metodología, evaluación.
 ## Señales continuas y discretas [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Se%C3%B1ales_continuasydiscretas.pdf) 
 ## Clase_2 10-Ago-2023
-## Transformaciones de la variable independiente[Diap]
+## Transformaciones de la variable independiente [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Senales_Tiempo_Continuo.pdf)
 ## Trabajo en clase[Python]
