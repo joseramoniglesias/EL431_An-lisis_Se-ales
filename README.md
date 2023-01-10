@@ -6,7 +6,7 @@
 ## Semana 1
 ## Clase_1 18-Ago-2023
 ## Presentación de la materia: motivación, objetivos, metodología, evaluación.
-## Señales continuas y discretas[Diap] 
+## Señales continuas y discretas[Diap](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Se%C3%B1ales_continuasydiscretas.pdf) 
 ## Clase_2 10-Ago-2023
 ## Transformaciones de la variable independiente[Diap]
 ## Trabajo en clase[Python]
