@@ -4,32 +4,19 @@
 ## Reconocer las características de funcionamiento, análisis y diseñoo de sistemas con elementos no lineales que no varían en el tiempo.
 ## Introducir el estudio y manejo de señales dentro del conocimiento de sistemas de transmisión de información.
 ## Contenido básico
-### 1. Conceptos b´asicos
-### a) Señales y sistemas. Tipos de señales. Tipos de sistemas. Proopiedades de los sistemas. El tiempo como variable continua. El tiempo como variable discreta.
-### b) Sistemas LTI discretos y continuos. Suma e integral de convolución. Propiedades de los sistemas LTI.
-2. Modelos de entrada/salida
-a) Ecuaciones diferenciales y de diferencia. Sistemas LTI causales descritos por ecuaciones
-diferenciales y de diferencias.
-3. An´alisis de se˜nales
-a) Representaci´on de se˜nales peri´odicas continuas y discretas en series de Fourier. Propiedades
-de la serie continua de Fourier. Propiedades de la serie discreta de Fourier. Relaci´on de
-Parseval.
-1
-Se˜nales y Sistemas I — 2013
-b) Transformada de Fourier de se˜nales continuas y discretas. Propiedades y parejas de transformadas.
-Transformada inversa de Fourier.
-c) Soluci´on de sistemas caracterizados por ecuaciones diferenciales lineales con coeficientes
-constantes mediante la transformada de Fourier.
-4. An´alisis de sistemas din´amicos
-a) Transformada Z y Transformada de Laplace. Propiedades y parejas de transformadas.
-Transformadas inversas Z y de Laplace. Transformadas inversas por expansi´on en fracciones
-parciales. Soluci´on de E.D. lineales mediante transformadas (discreto y continuo).
-b) Respuesta de entrada cero y de estado cero. Respuesta transitoria y estacionaria. Respuesta
-al escal´on y al impulso. Funciones de transferencia. El caso de primer orden (discreto
-y continuo). El caso de segundo orden (discreto y continuo). Estabilidad de sistemas LTI
-continuos y discretos.
-c) Sistemas realimentados simples. Tipo de sistema y error de estado estacionario. Criterio
-de estabilidad de Routh-Hurwitz.
+## 1. Conceptos básicos
+## a) Señales y sistemas. Tipos de señales. Tipos de sistemas. Proopiedades de los sistemas. El tiempo como variable continua. El tiempo como variable discreta.
+## b) Sistemas LTI discretos y continuos. Suma e integral de convolución. Propiedades de los sistemas LTI.
+## 2. Modelos de entrada/salida
+## a) Ecuaciones diferenciales y de diferencia. Sistemas LTI causales descritos por ecuaciones diferenciales y de diferencias.
+## 3. Análisis de señales
+## a) Representación de señales periódicas continuas y discretas en series de Fourier. Propiedades de la serie continua de Fourier. Propiedades de la serie discreta de Fourier. Relación de Parseval.
+## b) Transformada de Fourier de señales continuas y discretas. Propiedades y parejas de transformadas. Transformada inversa de Fourier.
+## c) Solución de sistemas caracterizados por ecuaciones diferenciales lineales con coeficientes constantes mediante la transformada de Fourier.
+## 4. Análisis de sistemas dinámicos
+## a) Transformada Z y Transformada de Laplace. Propiedades y parejas de transformadas. Transformadas inversas Z y de Laplace. Transformadas inversas por expansión en fracciones parciales. Solución de E.D. lineales mediante transformadas (discreto y continuo).
+## b) Respuesta de entrada cero y de estado cero. Respuesta transitoria y estacionaria. Respuesta al escalón y al impulso. Funciones de transferencia. El caso de primer orden (discreto y continuo). El caso de segundo orden (discreto y continuo). Estabilidad de sistemas LTI continuos y discretos.
+## c) Sistemas realimentados simples. Tipo de sistema y error de estado estacionario. Criterio de estabilidad de Routh-Hurwitz. 
 
 ## Semana 1
 ## Clase_1 18-Ago-2023
