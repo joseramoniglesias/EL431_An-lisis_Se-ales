@@ -19,9 +19,25 @@
 ## c) Sistemas realimentados simples. Tipo de sistema y error de estado estacionario. Criterio de estabilidad de Routh-Hurwitz. 
 
 ## Semana 1
-### Clase 01 Vi 18-Ago-2023:
+### Clase 01 Vi 17-Feb-2023:
 * Presentación de la materia: motivación, objetivos, metodología, evaluación.
 * Señales continuas y discretas [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Se%C3%B1ales_continuasydiscretas.pdf) 
-### Clase 02 Sab 19-Ago-2023:
+### Clase 02 Sab 18-Feb-2023:
 * Transformaciones de la variable independiente [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Senales_Tiempo_Continuo.pdf)
 * Trabajo en clase [Python] ()
+
+##  Semana 2
+### Clase 03 Vie 24-Feb-2023:
+* Señales exponenciales y sinusoidales [PPTX]
+### Clase 04 Sab 25-Feb-2023:
+* Trabajo en clase [Python]
+
+## Semana 3
+### Clase 05 Vie 03-Mar-2023:
+* Sistemas LTI [PPTX]
+* Espacios vectoriales [PPTX]
+* Taller en clases
+### Clase 06 Sab 04-Mar-2023:
+* Representación de Señales [PPTX]
+* Trabajo en clase [Python]
+
