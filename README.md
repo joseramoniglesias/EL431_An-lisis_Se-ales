@@ -40,7 +40,7 @@
 ### Clase 05 Vie 03-Mar-2023:
 * Sistemas LTI [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_SistemasLTI.pdf)
 * Espacios vectoriales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Espacios%20Vectoriales.pdf)
-* Taller en clases(https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS_Taller%20Se%C3%B1ales%20Y%20sistemas.pdf)
+* taller en clase [PDF](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS_Taller%20Se%C3%B1ales%20Y%20sistemas.pdf)
 ### Clase 06 Sab 04-Mar-2023:
 * Representación de Señales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Representacion%20de%20senales.pdf)
 * Trabajo en clase [Python]
