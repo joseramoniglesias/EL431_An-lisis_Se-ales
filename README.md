@@ -24,20 +24,24 @@
 * Señales continuas y discretas [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Se%C3%B1ales_continuasydiscretas.pdf) 
 ### Clase 02 Sab 18-Feb-2023:
 * Transformaciones de la variable independiente [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Senales_Tiempo_Continuo.pdf)
-* Trabajo en clase [Python] ()
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_IntroNumpy_SyS.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Par_Impar.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Se%C3%B1ales_Periodicas_Aperiodicas.ipynb)
 
 ##  Semana 2
 ### Clase 03 Vie 24-Feb-2023:
-* Señales exponenciales y sinusoidales [PPTX]
+* Señales exponenciales y sinusoidales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_SenaleExponencialesSinusoidales.pdf)
 ### Clase 04 Sab 25-Feb-2023:
-* Trabajo en clase [Python]
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Sistemas_Ideales.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Se%C3%B1ales_Exponenciales_Sinusoidales.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Se%C3%B1ales_estandar.ipynb)
 
 ## Semana 3
 ### Clase 05 Vie 03-Mar-2023:
-* Sistemas LTI [PPTX]
-* Espacios vectoriales [PPTX]
-* Taller en clases
+* Sistemas LTI [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_SistemasLTI.pdf)
+* Espacios vectoriales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Espacios%20Vectoriales.pdf)
+* Taller en clases(https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS_Taller%20Se%C3%B1ales%20Y%20sistemas.pdf)
 ### Clase 06 Sab 04-Mar-2023:
-* Representación de Señales [PPTX]
+* Representación de Señales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Representacion%20de%20senales.pdf)
 * Trabajo en clase [Python]
 
