@@ -18,6 +18,10 @@
 ## b) Respuesta de entrada cero y de estado cero. Respuesta transitoria y estacionaria. Respuesta al escalón y al impulso. Funciones de transferencia. El caso de primer orden (discreto y continuo). El caso de segundo orden (discreto y continuo). Estabilidad de sistemas LTI continuos y discretos.
 ## c) Sistemas realimentados simples. Tipo de sistema y error de estado estacionario. Criterio de estabilidad de Routh-Hurwitz. 
 
+## Curso de Analisis de Señaes 2023-1
+
+## Planificación del Curso por Días
+
 ## Semana 1
 ### Clase 01 Vi 17-Feb-2023:
 * Presentación de la materia: motivación, objetivos, metodología, evaluación.
