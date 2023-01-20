@@ -51,65 +51,91 @@
 
 ## Semana 4
 ### Clase 7 Vie 10-Mar 2023:
-
+* Introducción al modelamiento de sistemas, Sistemas LIT causales descritos por ecuaciones diferenciales y de diferencia [PPTX]
+* Trabajo en clase [Python]
 ### Clase 8 Sáb 11-Mar 2023:
+* Taller y ejercicios en clase [PDF]
 
 ## Semana 5
 ### Clase 9 Vié  17-Mar 2023:
-
+* Definición de las Series de Fourier en Tiempo Continuo y Discreto [PPTX]
+* Trabajo en clase [Python]
 ### Clase 10 Sab 18-Mar 2023:
+* Taller y ejercicios en clase [PDF]
 
 ## Semana 6
 ### Clase 11 Vie 24-Mar 2023:
-
+* Primer Parcial.
 ### Clase 12 Sab 25-Mar-2023:
+* Primer Parcial.
 
 ## Semana 7
 ### Clase 13 Vie 31-Abr 2023:
+* Transformada continua de Fourier, Transformada discreta de Fourier. Muestreo en el dominio de la frecuencia y la reconstrucción de señales en el tiempo discreto.
+* La transformada discreta de Fourier (DFT)
+* Trabajo en clase [Python]
 
 ### Clase 14 Sab 1-Abr 2023:
-
+* Taller y ejercicios en clase [PDF] 
 
 ## Semana 8
 ### Clase 15 Vier 14-Abr 2023:
+* Propiedades de la transformada de Fourier I
+* Trabajo en clase [Python]
 
 ### Clase 16 Sab 15-Abr 2023:
+* Taller y ejercicios en clase [PDF]
 
 ## Semana 9
 ### Clase 17 Vie 21-Abr 2023:
+* Propiedades de la transformada de Fourier II. Representación de la magnitud-fase de la transformada de Fourier. Representación de la magnitud-fase de la respuesta en frecuencia de sistemas LTI. [PPTX]
+* Trabajo en clase [Python]
 
 ### Clase 18 Sab 22-Abr 2023:
-
+* Taller y ejercicios en clase [PDF]
+ 
 ## Semana 10
 ### Clase 19 Vie 28-Abr 2023:
+* Transformadas de Laplace y Z, region de convergencia (ROC), propiedades de la ROC, transformadas inversas [PPTX]
+* Trabajo en clase [Python]
 
 ### Clase 20 Sab. 29-Abr-2023:
+* Taller y ejercicios en clase [PDF]
 
 ## Semana 11
 ### Clase 21 Vie. 5-Mayo-2023:
-
+* Segundo Parcial.
 ### Clase 22 Sab. 6-Mayo-2023:
+* Segundo Parcial.
 
 ## Semana 12
 ### Clase 23 Vie. 12. Mayo-2023:
-
+* Propiedades de las transformadas  de Laplace y Z, análisis de SLIT usando transformadas, transformadas unilaterales, solución de ecuaciones diferenciales y de diferencia. [PPTX]
+* Trabajo en clase [Python]
 ### Clase 24 Sab. 13-Mayo-2023:
+* Taller y ejercicios en clase [PDF]
 
 ## Semana 13
 ### Clase 25 Vie. 19-Mayo-2023:
+* Introducción al análisis de sistemas dinámicos lineales, sistemas de primer y segundo orden. [PPTX]
+* Trabajo en clase [Python]
 
 ### Clase 26 Sab. 20-Mayo-2023:
+* Taller y ejercicios en clase [PDF]
 
 ## Semana 14
 ### Clase 27 Vie. 26-Mayo-2023
+* Muestreo [PPTX]
+* Trabajo en clase [Python]
 
 ### Clase 28 Sab. 27-Mayo-20232:
+* Taller y ejercicios en clase [PDF]
 
 ## Semana 15
 ### Clase 29 Vie. 2-Jun-2023:
-
+* Avances Presentaciones de Proyecto Final
 ### Clase 30 Sab. 3-jun-2023:
-8.6-Avances Presentaciones de Proyecto Final
+* Avances Presentaciones de Proyecto Final
 
 ## Semana 16
 ### Clase 31 Vie. 9-Jun-2023:
