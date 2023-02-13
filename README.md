@@ -47,7 +47,9 @@
 * taller en clase [PDF](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS_Taller%20Se%C3%B1ales%20Y%20sistemas.pdf)
 ### Clase 06 Sab 04-Mar-2023:
 * Representación de Señales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_Representacion%20de%20senales.pdf)
-* Trabajo en clase [Python]
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS_Lineales_EspaciosVectoriales.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Sistemas_LTI_Convolucion.ipynb)
+* Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Convolucion_Discreta.ipynb)
 
 ## Semana 4
 ### Clase 7 Vie 10-Mar 2023:
