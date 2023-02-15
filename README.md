@@ -53,7 +53,7 @@
 
 ## Semana 4
 ### Clase 7 Vie 10-Mar 2023:
-* Introducción al modelamiento de sistemas, Sistemas LIT causales descritos por ecuaciones diferenciales y de diferencia [PPTX]
+* Introducción al modelamiento de sistemas, Sistemas LIT causales descritos por ecuaciones diferenciales y de diferencia [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap02_Introducci%C3%B3n%20a%20los%20sistemas%20lineales%20continuos%20y%20discretos/Presentaciones/AS02_ModelamientoLTICausales.pdf)
 * Trabajo en clase [Python]
 ### Clase 8 Sáb 11-Mar 2023:
 * Taller y ejercicios en clase [PDF]
