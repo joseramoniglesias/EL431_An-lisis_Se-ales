@@ -34,7 +34,7 @@
 
 ##  Semana 2
 ### Clase 03 Vie 24-Feb-2023:
-* Señales exponenciales y sinusoidales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_SenaleExponencialesSinusoidales.pdf)
+* Señales exponenciales y sinusoidales [PPTX](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Presentaciones/AS01_SenaleExponencialesSinusoidales.pptx)
 ### Clase 04 Sab 25-Feb-2023:
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Sistemas_Ideales.ipynb)
 * Trabajo en clase [Python](https://github.com/joseramoniglesias/EL431_Analisis_Senales/blob/main/Clases/Cap01_Introducci%C3%B3n/Pit%C3%B3n/AS01_Se%C3%B1ales_Exponenciales_Sinusoidales.ipynb)
