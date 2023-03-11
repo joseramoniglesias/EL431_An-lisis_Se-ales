@@ -1,4 +1,5 @@
 # EL431_Analisis_Senales
+link de la encuesta https://script.google.com/a/macros/unicesar.edu.co/s/AKfycbxZlqGuOQeK2EGc4FZ6xVL21Uc9HC9SvelF0gZn8V8/dev
 ## Objetivos de la asignatura
 ## Conocer y manejar métodos de análisis generales como lo son las Transformadas de Fourier y Laplace.
 ## Reconocer las características de funcionamiento, análisis y diseñoo de sistemas con elementos no lineales que no varían en el tiempo.
